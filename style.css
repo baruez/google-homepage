@@ -17,6 +17,9 @@
   padding: 14px 50px;
   font-size: 16px;
 }
+.searchbar-wrap .searchbar:focus {
+outline:0;
+}
 
 .searchbar-wrap .search {
   position: absolute;
