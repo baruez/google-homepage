@@ -19,7 +19,13 @@
 }
 .searchbar-wrap .searchbar:focus {
 outline:0;
+box-shadow: 0 0 11px rgba(33,33,33,.2);
 }
+
+.searchbar-wrap .searchbar:hover {
+box-shadow: 0 0 11px rgba(33,33,33,.2);
+}
+
 
 .searchbar-wrap .search {
   position: absolute;
