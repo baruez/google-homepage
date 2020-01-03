@@ -1,6 +1,7 @@
 .logo{
   margin-top: 150px;
   text-align: -webkit-center;
+  text-align: center;
   position: relative;
 }
 .searchbar-wrap {
@@ -87,6 +88,7 @@ nav button{
   margin-top: 20px;
   position: relative;
   text-align: -webkit-center;
+  text-align: center;
 
 }
 .buttons button{
@@ -108,6 +110,7 @@ nav button{
   display: inline-block;
   line-height: 28px;
   text-align: -webkit-center;
+  text-align: center;
   font-family: arial,sans-serif;
   font-size: 13px;
 
